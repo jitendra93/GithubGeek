@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Github Geek</string>
+    <string name="search">Search</string>
+    <string name="issues">Issues</string>
+    <string name="kotlin">Kotlin</string>
+    <string name="details">Details</string>
+    <string name="loading">Fetching..</string>
+    <string name="error">Unable to fetch data!</string>
+    <string name="network_error">Looks like you are not connected to the internet!</string>
+    <string name="no_internet">No Internet</string>
+    <string name="contributors">Contributors</string>
+    <string name="loading_contributors">Fetching Contributors..</string>
+    <string name="error_contributors">Unable to fetch contributors!</string>
+    <string name="loading_issues">Fetching Issues..</string>
+    <string name="no_issues">No Issues for this repository</string>
+    <string name="error_issues">Unable to fetch issues!</string>
+</resources>
